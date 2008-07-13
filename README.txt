@@ -3,7 +3,7 @@ Contributors: rdsteed
 Donate link: 
 Tags: reverse, sort, ascending, chronological, posts, order
 Requires at least: 2.0
-Tested up to: 2.2
+Tested up to: 2.5.1
 Stable tag: trunk
 
 This plugin changes the default order of queries generating posts from descending to ascending.
