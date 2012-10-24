@@ -10,7 +10,7 @@ This plugin changes the default order of queries generating posts from descendin
 
 == Description ==
 
-By default, the sort order for queries in WordPress is descending.  This will produce posts in reverse chronological order, the desired result for most blogs.  However, in some cases, it may be desirable to have posts in ascending order.  When activated, this plugin changes the default order from descending to ascending.  This affects all queries (home page, archives, dates, etc).  Deactivating the plugin returns the default order to descending.
+By default, the sort order for queries in WordPress is descending.  This will produce posts in reverse chronological order, the desired result for most blogs.  However, in some cases, it may be desirable to have posts in ascending order.  When activated, this plugin changes the default order from descending to ascending.  This affects all queries (home page, archives, dates, etc).  Deactivating the plugin returns the default order to descending.  How well this works out varies from theme to theme.
 
 
 == Installation ==
